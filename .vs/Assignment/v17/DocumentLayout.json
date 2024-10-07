@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\dao\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\dao\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\dao\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\main module\\techshopmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\model\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\dao\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\dao\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\dao\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\dao\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\dao\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\dao\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\utility\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDA8215-6F3E-4686-B511-CC731ABA7540}|..\\TECHSHOP ASSIGNMENT\\TechShop\\TechShop.csproj|c:\\users\\vijji\\documents\\hexaware\\techshop assignment\\techshop\\dao\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\ProductService.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\ProductService.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\ProductService.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAJEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:05:23.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\OrderService.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\OrderService.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\OrderService.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAAM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:05:19.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Inventory.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Inventory.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Inventory.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:51:50.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\InventoryService.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\InventoryService.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\InventoryService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:04:51.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Product.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:45:56.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IInventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IInventoryService.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IInventoryService.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IInventoryService.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IInventoryService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wBUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:04:41.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TechShopMenu.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Main Module\\TechShopMenu.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Main Module\\TechShopMenu.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Main Module\\TechShopMenu.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Main Module\\TechShopMenu.cs",
+              "ViewState": "AgIAAMEBAAAAAAAAAAAYwNEBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:54:19.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Customer.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:44:24.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:51:08.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Order.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Model\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:49:32.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\CustomerService.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\CustomerService.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:31:52.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\ICustomerService.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\ICustomerService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:57:06.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IOrderDetailService.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IOrderDetailService.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IOrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:05:07.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\OrderDetailService.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\OrderDetailService.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\OrderDetailService.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAMwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:05:15.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IOrderService.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IOrderService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:05:02.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Program.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Program.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:35:32.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbConnUtil.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Utility\\DbConnUtil.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Utility\\DbConnUtil.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\Utility\\DbConnUtil.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\Utility\\DbConnUtil.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAxwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:37:23.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IProductService.cs",
+              "ToolTip": "C:\\Users\\VIJJI\\Documents\\HEXAWARE\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IProductService.cs",
+              "RelativeToolTip": "..\\TECHSHOP ASSIGNMENT\\TechShop\\dao\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:05:11.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
